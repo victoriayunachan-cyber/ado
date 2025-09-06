@@ -15,7 +15,3 @@ Este é um projeto de site acessível dedicado à cantora japonesa Ado, utilizan
 - CSS3
 - JavaScript
 - Bootstrap 5
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
